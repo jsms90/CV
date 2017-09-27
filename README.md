@@ -5,11 +5,11 @@ My primary motivations lie with open source values & consideration of the inhere
 
 1. [Skills](#skills)
 1. [Experience](#experience)
-  - [Founders & Coders - Course Facilitator](#founders--coders---course-facilitator-feb-2017---present)
-  - [IP Cortex - Freelance full-stack Web Developer](#ip-cortex---freelance-full-stack-web-developer-feb-2017---may-2017)
-  - [Founders & Coders - Full-stack Web Developer](#founders--coders---full-stack-web-developer-oct-2016-feb-2017)
-    - [Projects](#projects)
-    - [Mentoring](#mentoring)
+   - [Founders & Coders - Course Facilitator](#founders--coders---course-facilitator-feb-2017---present)
+    - [IP Cortex - Freelance full-stack Web Developer](#ip-cortex---freelance-full-stack-web-developer-feb-2017---may-2017)
+    - [Founders & Coders - Full-stack Web Developer](#founders--coders---full-stack-web-developer-oct-2016-feb-2017)
+      - [Projects](#projects)
+      - [Mentoring](#mentoring)
 1. [Education](#education)
 1. [LinkedIn](https://www.linkedin.com/in/jsms90/)
 
