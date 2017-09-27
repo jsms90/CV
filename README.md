@@ -14,7 +14,6 @@ My primary motivations lie with open source values & consideration of the inhere
 - [LinkedIn](https://www.linkedin.com/in/jsms90/)
 
 ## Skills
-Currently learning React, Webpack & Babel through online tutorials
 
 | Client-side            | Server-side        | Databases     | Testing frameworks  | Tools                     |
 |:----------------------:|:------------------:|:-------------:|:-------------------:|:-------------------------:|
@@ -27,6 +26,8 @@ Currently learning React, Webpack & Babel through online tutorials
 |                        |                    |               |                     | Heroku                    |
 |                        |                    |               |                     | npm                       |
 |                        |                    |               |                     | Markdown                  |
+
+Currently learning React, Webpack & Babel through online tutorials
 
 ## Experience
 ### Founders & Coders - Course Facilitator (Feb 2017 - present)
