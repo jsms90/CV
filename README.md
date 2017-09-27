@@ -3,7 +3,15 @@ I am a systems-thinker with a strong interest in functional programming, who val
 
 My primary motivations lie with open source values & consideration of the inherent ethical implications of software development. This includes but is not limited to Tech for Good, the education sector and communication technologies.
 
-[LinkedIn](https://www.linkedin.com/in/jsms90/)
+- [Skills](#skills)
+- [Experience](#experience)
+  - [Founders & Coders - Course Facilitator](#founders--coders---course-facilitator-feb-2017---present)
+  - [IP Cortex - Freelance full-stack Web Developer](#ip-cortex---freelance-full-stack-web-developer-feb-2017---may-2017)
+  - [Founders & Coders - Full-stack Web Developer](#founders--coders---full-stack-web-developer-oct-2016-feb-2017)
+    - [Projects](#projects)
+    - [Mentoring](#mentoring)
+- [Education](#education)
+- [LinkedIn](https://www.linkedin.com/in/jsms90/)
 
 ## Skills
 Currently learning React, Webpack & Babel through online tutorials
@@ -52,10 +60,6 @@ IP Cortex's "Reseller Platform" enables:
 ### Founders & Coders - Full-stack Web Developer (Oct 2016 - Feb 2017)
 Open source ethics and peer-led learning underpin the 16-week course, with a heavy emphasis on pair programming and thorough documentation.
 
-Server side: Node.js, Hapi.js, PostgreSQL
-Client side: JavaScript, HTML5, CSS3, Redux, Elm
-Tools: Git & Github, QUnit, Tape, Codecov, TravisCI, Heroku
-
 #### Projects
 Each week culminates in a 2-day project that is delivered in small agile teams:
 - UX/UI: [Mobile-only front-end design for a charitable donation site](https://fac9.github.io/future-leaders/index.html)
@@ -67,8 +71,8 @@ Each week culminates in a 2-day project that is delivered in small agile teams:
 - TDD: [Stopwatch](https://github.com/Cool-Computer-Club/stop-watch-2)
 - Git, GitHub, HTML & CSS: [Template for a blogging website](https://github.com/Cool-Computer-Club/blog)
 
-#### Other responsibilities
-- Designing and delivering the curriculum for the next cohort - each curriculum is an iterative improvement on the last
+#### Mentoring
+- Designing and delivering the curriculum for the next cohort
 - Frequent host of our weekly meetups
 
 ## Education
