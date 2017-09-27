@@ -1,5 +1,7 @@
 # Jennifer Spencer - Full-stack Web Developer
-I am a systems-thinker with a strong interest in functional programming, who values a user-centred approach to software development. My primary motivations lie with open source values & consideration of the inherent ethical implications of software development. This includes but is not limited to Tech for Good, the education sector and communication technologies.
+I am a systems-thinker with a strong interest in functional programming, who values a user-centred approach to software development.
+
+My primary motivations lie with open source values & consideration of the inherent ethical implications of software development. This includes but is not limited to Tech for Good, the education sector and communication technologies.
 
 [LinkedIn](https://www.linkedin.com/in/jsms90/)
 
