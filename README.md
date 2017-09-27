@@ -15,17 +15,14 @@ My primary motivations lie with open source values & consideration of the inhere
 
 ## Skills
 
-| Client-side            | Server-side        | Databases     | Testing frameworks  | Tools                     |
-|:----------------------:|:------------------:|:-------------:|:-------------------:|:-------------------------:|
-| JavaScript             | Node.js            | PostgreSQL    | Tape                | Git                       |
-| HTML5                  | Hapi.js            |               | QUnit               | GitHub                    |
-| CSS3                   | Socket.io          |               | Jasmine             | Trello                    |
-| Redux                  |                    |               |                     | Istanbul                  |
-| Elm                    |                    |               |                     | Codecov                   |
-|                        |                    |               |                     | Travis CI                 |
-|                        |                    |               |                     | Heroku                    |
-|                        |                    |               |                     | npm                       |
-|                        |                    |               |                     | Markdown                  |
+| Client-side            | Server-side        | Databases     | Testing frameworks  | Testing Tools  | Other tooling |
+|:----------------------:|:------------------:|:-------------:|:-------------------:|:--------------:|:-------------:|
+| JavaScript             | Node.js            | PostgreSQL    | Tape                | Istanbul       | Git           |
+| HTML5                  | Hapi.js            |               | QUnit               | Codecov        | GitHub        |
+| CSS3                   | Socket.io          |               | Jasmine             | Travis CI      | Trello        |
+| Redux                  |                    |               |                     |                | Heroku        |
+| Elm                    |                    |               |                     |                | npm           |
+|                        |                    |               |                     |                | Markdown      |
 
 Currently learning React, Webpack & Babel through online tutorials
 
