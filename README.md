@@ -25,29 +25,29 @@ Currently learning React, Webpack & Babel through online tutorials
 Founders and Coders is the UK's only free web development bootcamp, provided by a not-for-profit community interest company. As Course Facilitator of the London campus, I ensure that the curriculum is being consistently delivered, monitor the progress of students and mentors, and promote cohesion of the London community as whole.
 
 Responsibilities:
-• Provide consistency of pastoral care between weeks by communicating directly with students, scheduling one-to-one walks with a wider pastoral care team & acting on observations and feedback in order to encourage cohort cohesion
-• Facilitate student retrospectives
-• Facilitate student team selection
-• Unblock problems that students experience, e.g. requiring tech guidance or further communication with Product Owners
-• Ensuring that each week on the programme is assigned sufficient mentors who are prepared for their roles, and arranging cover if necessary
-• Unblock problems that mentors experience, in particular by directing mentors to alumni with relevant experience
-• Facilitating mentor retrospectives
-• Engage more experienced alumni in workshops, code reviews, morning challenges, whiteboard walkthroughs, and office hours
-• Enable integration between cohorts by scheduling code reviews and office hours
-• Ensure that problems experienced in the classroom are raised as github issues in the FAC curriculum repo
-• Actively maintain FAC's github repositories
-• Organise the speaker schedule with FAC's Hiring Manager
-• Co-design the curriculum planning process & delivering the local sessions
-• Ensure that the business development task groups are adequately supported
-• Prepare for and participating in weekly standups with Course Facilitators from other campuses
-• Communicate regularly with Founders and Coders International at weekly meetings
+- Provide consistency of pastoral care between weeks by communicating directly with students, scheduling one-to-one walks with a wider pastoral care team & acting on observations and feedback in order to encourage cohort cohesion
+- Facilitate student retrospectives
+- Facilitate student team selection
+- Unblock problems that students experience, e.g. requiring tech guidance or further communication with Product Owners
+- Ensuring that each week on the programme is assigned sufficient mentors who are prepared for their roles, and arranging cover if necessary
+- Unblock problems that mentors experience, in particular by directing mentors to alumni with relevant experience
+- Facilitating mentor retrospectives
+- Engage more experienced alumni in workshops, code reviews, morning challenges, whiteboard walkthroughs, and office hours
+- Enable integration between cohorts by scheduling code reviews and office hours
+- Ensure that problems experienced in the classroom are raised as github issues in the FAC curriculum repo
+- Actively maintain FAC's github repositories
+- Organise the speaker schedule with FAC's Hiring Manager
+- Co-design the curriculum planning process & delivering the local sessions
+- Ensure that the business development task groups are adequately supported
+- Prepare for and participating in weekly standups with Course Facilitators from other campuses
+- Communicate regularly with Founders and Coders International at weekly meetings
 
 ### IP Cortex - Freelance Full-stack Web Developer (Feb 2017 - May 2017)
 Completed 4 sprints in a team of 3 developers on a greenfield project.
 
 IP Cortex's "Reseller Platform" enables:
-+ resellers to manage their clients' orders (including PABX hardware/software and the phones themselves)
-+ IP Cortex staff to manage all invoices and billing information
+- resellers to manage their clients' orders (including PABX hardware/software and the phones themselves)
+- IP Cortex staff to manage all invoices and billing information
 
 ### Founders & Coders - Full-stack Web Developer (Oct 2016 - Feb 2017)
 Open source ethics and peer-led learning underpin the 16-week course, with a heavy emphasis on pair programming and thorough documentation.
@@ -68,8 +68,8 @@ Each week culminates in a 2-day project that is delivered in small agile teams:
 - Git, GitHub, HTML & CSS: [Template for a blogging website](https://github.com/Cool-Computer-Club/blog)
 
 #### Other responsibilities
-• Designing and delivering the curriculum for the next cohort - each curriculum is an iterative improvement on the last
-• Frequent host of our weekly meetups
+- Designing and delivering the curriculum for the next cohort - each curriculum is an iterative improvement on the last
+- Frequent host of our weekly meetups
 
 ## Education
 Mathematics BSc 2:2 - University of Reading (2009-2012)
